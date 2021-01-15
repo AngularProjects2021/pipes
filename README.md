@@ -1,7 +1,7 @@
 # Pipes
 ## Developer :ahitisham
 ## Date :15/1/2021
-
+![ScreenShot](https://github.com/AngularProjects2021/pipes/blob/main/Pipes.jpg)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
